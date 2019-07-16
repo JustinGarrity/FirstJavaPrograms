@@ -1,3 +1,0 @@
-module test2 {
-	requires java.se;
-}
